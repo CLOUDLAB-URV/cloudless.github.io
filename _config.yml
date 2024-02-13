@@ -70,7 +70,7 @@ defaults:
       permalink: ""
 plugins:
   - jekyll-multiple-languages-plugin
-languages: ["en", "es", "ca"]
+languages: ["en", "es"]
 exclude_from_localizations: ["javascript", "images", "css", "assets", "gallery"]
 # default_locale_in_subfolder: true
 baseurl_root: ""
