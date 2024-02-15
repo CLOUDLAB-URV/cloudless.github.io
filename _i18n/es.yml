@@ -1,3 +1,17 @@
 test: CLOUDLESS
 legend: "Plataforma de computación de información en el borde"
+objectives: "Objetivos"
+partners: "Socios"
+about: "Sobre"
+o1: "Desarrollo de un middleware de computación en el extremo que optimice de manera transparente en el continuum (Cloud/Edge)"
+o2: "Desarrollo de una plataforma de computación en el borde para la gestión de Espacios de Datos abiertos"
+o3: "Validación y diseminación de resultados sobre plataformas heterogéneas Cloud/Edge incluyendo Clouds públicos, clusters privados, dispositivos IoT, y dispositivos de usuario final (browsers, móviles)"
+
+project_title: "Título del proyecto"
+coordinator: "Coordinador"
+partners: "Socios"
+duration: "Duración"
+budget: "Presupuesto"
+funding: "Financiación"
+
 contact_title: "Contacto"

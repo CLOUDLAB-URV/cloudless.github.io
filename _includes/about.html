@@ -3,25 +3,58 @@
   <div class="container">
     <div class="row">
       <div class="col-lg-12 text-center">
-        <h2>About</h2>
+        <h2>{% t about %}</h2>
         <hr class="star-light">
       </div>
     </div>
     <div class="row">
-      <div class="col-lg-4 col-lg-offset-2">
-        <p>Freelancer is a free bootstrap theme created by Start Bootstrap. The download includes the complete
-          source files including HTML, CSS, and JavaScript as well as optional LESS stylesheets for easy
-          customization.</p>
-      </div>
-      <div class="col-lg-4">
-        <p>Whether you're a student looking to showcase your work, a professional looking to attract clients, or
-          a graphic artist looking to share your projects, this template is the perfect starting point! </p>
-      </div>
-      <div class="col-lg-8 col-lg-offset-2 text-center">
-        <a href="https://github.com/jeromelachaud/freelancer-theme" class="btn btn-lg btn-outline">
-          <i class="fa fa-download"></i> Download Theme
-        </a>
-      </div>
+      <table cellpadding="3" class="projectAbout">
+        <tbody>
+          <tr>
+            <td style="padding-bottom: 0,75em;"><strong>{% t project_title %}</strong></td>
+            <td style="padding: 0 15px; padding-bottom: 0,75em;">CLOUDLESS: {% t legend %}</td>
+          </tr>
+          <tr>
+            <td style="padding-bottom: 0,75em;"><strong>{% t coordinator %}</strong></td>
+            <td style="padding: 0 15px; padding-bottom: 0,75em;">Dr. Pedro García López (URV)</td>
+          </tr>
+          <tr>
+            <td style="padding-bottom: 0,75em;"><strong>{% t partners %}</strong></td>
+            <td style="padding: 0 15px; padding-bottom: 0,75em;">
+
+
+              <a href="http://www.urv.cat/en/" target="_blank" style="color: white;">Universitat Rovira i Virgili</a>
+              <br>
+
+              <a href="https://opennebula.io/" target="_blank" style="color: white;">OpenNebula</a>
+              <br>
+
+              <a href="https://www.telefonica.com/es/" target="_blank" style="color: white;">Telefónica Research</a>
+              <br>
+
+              <a href="https://alternatecno.es/" target="_blank" style="color: white;">Alterna Tecnologías</a>
+              <br>
+
+              <a href="8https://www.unizar.es/" target="_blank" style="color: white;">Universidad de Zaragoza</a>
+              <br>
+
+            </td>
+          </tr>
+          <tr>
+            <td style="padding-bottom: 0,75em;"><strong>{% t duration %}</strong></td>
+            <td style="padding: 0 15px; padding-bottom: 0,75em;">01/01/2023 - 30/06/2025</td>
+          </tr>
+          <tr>
+            <td style="padding-bottom: 0,75em;"><strong>{% t budget %}</strong></td>
+            <td style="padding: 0 15px; padding-bottom: 0,75em;">2.351.607,14 €</td>
+          </tr>
+          <tr>
+            <td><strong>{% t funding %}</strong></td>
+            <td style="padding: 0 15px;"> Programa UNICO I+D Cloud, en el marco del Plan de Recuperación, Transformación y Resiliencia -Financiado por la Unión Europea- Next Generation EU</td>
+          </tr>
+        </tbody>
+      </table>
+
     </div>
   </div>
 </section>

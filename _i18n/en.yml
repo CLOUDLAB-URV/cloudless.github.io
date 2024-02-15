@@ -1,3 +1,17 @@
 test: CLOUDLESS
-legend: "Edge information computing platform!"
+legend: "Edge information computing platform"
+objectives: "Objectives"
+partners: "Partners"
+about: "About"
+o1: "Development of edge computing middleware that transparently optimizes across the continuum (Cloud/Edge)"
+o2: "Development of an edge computing platform for the management of open Data Spaces"
+o3: "Validation and dissemination of results on heterogeneous Cloud/Edge platforms including public Clouds, private clusters, IoT devices, and end-user devices (browsers, mobiles)"
+
+project_title: "Project title"
+coordinator: "Coordinator"
+partners: "Partners"
+duration: "Duration"
+budget: "Overall budget"
+funding: "Funding"
+
 contact_title: "Contact"
