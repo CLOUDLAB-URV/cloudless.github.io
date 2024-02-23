@@ -73,3 +73,4 @@ languages: ["en", "es"]
 exclude_from_localizations: ["javascript", "images", "css", "assets", "gallery"]
 # default_locale_in_subfolder: true
 baseurl_root: ""
+baseurl: ""
