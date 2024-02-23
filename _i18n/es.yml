@@ -3,9 +3,16 @@ legend: "Plataforma de computación de información en el borde"
 objectives: "Objetivos"
 partners: "Socios"
 about: "Sobre"
+
+text_objectives: "El objetivo del proyecto CLOUDLESS es desarrollar una plataforma de computación en el borde (Edge) para la creación y despliegue de Espacios de Datos abiertos (International Data Spaces). La plataforma seguirá una arquitectura distribuida descentralizada que ofrezca servicios de descubrimiento e interconexión abiertos (data brokers) basados en eventos a diferentes consumidores (data consumers) y proveedores de datos (data providers). 
+La arquitectura ofrecerá también infraestructuras seguras Cloud/Edge que permitan el análisis de datos eficiente (data connectors) en base a variables como localidad, coste económico, privacidad o latencia. 
+La plataforma será validada en diferentes espacios de datos abiertos como la ciencia ciudadana, el turismo o los datos ómicos (genómica y metabolómica)."
 o1: "Desarrollo de un middleware de computación en el extremo que optimice de manera transparente en el continuum (Cloud/Edge)"
 o2: "Desarrollo de una plataforma de computación en el borde para la gestión de Espacios de Datos abiertos"
 o3: "Validación y diseminación de resultados sobre plataformas heterogéneas Cloud/Edge incluyendo Clouds públicos, clusters privados, dispositivos IoT, y dispositivos de usuario final (browsers, móviles)"
+title_o1: "Optimizar en el continuum"
+title_o2: "Espacios de Datos abiertos"
+title_o3: "Plataformas heterogéneas Cloud/Edge"
 
 project_title: "Título del proyecto"
 coordinator: "Coordinador"
@@ -14,4 +21,5 @@ duration: "Duración"
 budget: "Presupuesto"
 funding: "Financiación"
 
-contact_title: "Contacto"
+coord: "Coordinador del proyecto"
+acks: "Proyecto financiado por el Ministerio de Asuntos Económicos y Transformación Digital y por la Unión Europea-NextGenerationEU, en el marco del PRTR y el MRR."

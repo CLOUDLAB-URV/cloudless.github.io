@@ -4,15 +4,15 @@
     <div class="container">
       <div class="row">
         <div class="footer-col col-md-4">
-          <h3>{{ site.footer.location }}</h3>
+          <!--  <h3>{{ site.footer.location }}</h3> -->
           <p>
-            {% for adress in site.address %}
+            {% t coord %}
             {{ adress.line }} <br>
             {% endfor %}
           </p>
         </div>
         <div class="footer-col col-md-4">
-          <h3>{{ site.footer.social }}</h3>
+          <!-- <h3>{{ site.footer.social }}</h3>
           <ul class="list-inline">
             {% for network in site.social %}
             <li>
@@ -20,11 +20,13 @@
                   class="fa-brands fa-fw fa-{{ network.title }}"></i></a>
             </li>
             {% endfor %}
-          </ul>
+          </ul> -->
         </div>
         <div class="footer-col col-md-4">
-          <h3>{{ site.footer.credits }}</h3>
-          <p>{{ site.credits }}</p>
+          <!-- <h3></h3> -->
+          <p class="small">{% t acks %}</p>
+          <img src="img/Logo _PRTR_COLOR.png" alt="PRTR - MRR" width="50%"/>
+          <img src="img/ES__RGB_NEG.png" alt="Next Generation EU" width="50%"/>
         </div>
       </div>
     </div>

@@ -3,9 +3,16 @@ legend: "Edge information computing platform"
 objectives: "Objectives"
 partners: "Partners"
 about: "About"
+
+text_objectives: "The objective of the CLOUDLESS project is to develop an edge computing platform for the creation and deployment of open Data Spaces (International Data Spaces). The platform will follow a decentralized distributed architecture that offers event-based open discovery and interconnection services (data brokers) to different data consumers (data consumers) and data providers (data providers).
+The architecture will also offer secure Cloud/Edge infrastructures that allow efficient data analysis (data connectors) based on variables such as locality, economic cost, privacy or latency.
+The platform will be validated in different open data spaces such as citizen science, tourism or omics data (genomics and metabolomics)."
 o1: "Development of edge computing middleware that transparently optimizes across the continuum (Cloud/Edge)"
 o2: "Development of an edge computing platform for the management of open Data Spaces"
 o3: "Validation and dissemination of results on heterogeneous Cloud/Edge platforms including public Clouds, private clusters, IoT devices, and end-user devices (browsers, mobiles)"
+title_o1: "Optimizing the continuum"
+title_o2: "Open Data Spaces"
+title_o3: "Heterogeneous Cloud/Edge platforms"
 
 project_title: "Project title"
 coordinator: "Coordinator"
@@ -14,4 +21,5 @@ duration: "Duration"
 budget: "Overall budget"
 funding: "Funding"
 
-contact_title: "Contact"
+coord: "Project Coordinator"
+acks: "Project funded by the Ministry of Economic Affairs and Digital Transformation and by the European Union-NextGenerationEU, within the framework of the PRTR and the MRR."
