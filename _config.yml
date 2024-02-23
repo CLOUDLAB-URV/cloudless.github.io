@@ -50,8 +50,8 @@ social:
 # Postal address (add as many lines as necessary)
 address:
   - line: Project Coordinator
-  - line: Dr. Pedro García López 
-  - line: pedro.garcia@urv.cat
+  - name: Dr. Pedro García López 
+  - email: pedro.garcia@urv.cat
 
 # Credits content
 credits: 'Frelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
