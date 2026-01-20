@@ -2,6 +2,8 @@ test: CLOUDLESS
 legend: "Edge information computing platform"
 objectives: "Objectives"
 results: "Results"
+software: "Software Results"
+publications: "Publications"
 partners: "Partners"
 about: "About"
 
