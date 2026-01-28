@@ -1,7 +1,6 @@
 test: CLOUDLESS
 legend: "Edge information computing platform"
 objectives: "Objectives"
-results: "Results"
 software: "Software Results"
 publications: "Publications"
 partners: "Partners"
@@ -27,3 +26,16 @@ dissemination: "Dissemination materials"
 
 coord: "Project Coordinator"
 acks: "Project funded by the Ministry of Economic Affairs and Digital Transformation and by the European Union-NextGenerationEU, within the framework of the PRTR and the MRR."
+
+pyrun_text: "PyRun is defined as the world's first \"Serverless Python Studio\", a deep-tech platform that acts as an intelligent bridge between local code and the immense power of the cloud. Its critical importance lies in eliminating the \"complexity tax\": currently, data scientists and AI engineers lose up to 60% of their time configuring complex infrastructures instead of innovating. PyRun solves this by democratizing supercomputing; it allows any Python user, without DevOps knowledge, to run their scripts on clouds like AWS or IBM with a single click, while the platform automatically manages the entire server lifecycle, ensuring that technical talent focuses purely on creating value rather than \"connecting cables\"."
+pyrun_button: "Visit PyRun"
+
+# Software table
+name: "Name"
+description: "Description"
+link: "Link"
+repository: "Repository"
+
+# Publications table
+title: "Title"
+open: "Open"

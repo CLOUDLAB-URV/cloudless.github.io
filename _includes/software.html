@@ -13,9 +13,9 @@
           <table class="table table-striped" style="text-align: left">
             <thead>
               <tr>
-                <th width="20%">Name</th>
-                <th width="60%">Description</th>
-                <th width="20%">Link</th>
+                <th width="20%">{% t name %}</th>
+                <th width="70%">{% t description %}</th>
+                <th width="10%">{% t link %}</th>
               </tr>
             </thead>
             <tbody>
@@ -25,7 +25,7 @@
                 <td>{{ item.description }}</td>
                 <td style="text-align: center;">
                   <a href="{{ item.link }}" target="_blank" class="btn btn-default btn-sm">
-                    <i class="fab fa-github"></i> Repository
+                    <i class="fab fa-github"></i> {% t repository %}
                   </a>
                 </td>
               </tr>
